@@ -1,1 +1,1 @@
-# Seminario-de-visi-n-y-procesamiento-de-imgenes
+# Seminario-de-vision-y-procesamiento-de-imgenes
